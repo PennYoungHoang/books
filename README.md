@@ -1,11 +1,10 @@
 # Books
 A book a day, keep stupid away. 
-The book list mainly contains economics, technology and psychology.   
-I've read them more or less.   
-They gave me different insights to the world, and how something works. So I'd like to share with others.    
-I'm not the one who sells knowledge. Knowledge is dead and everywhere.   
-Since the future is already here, I just wanna it to be distributed.
-Hope you can find interests in the books.
+
+` The book list mainly contains economics, technology and psychology. I've read them more or less.   
+They gave me different insights to the world, and how something works. So I'd like to share with others. I'm not the one who sells knowledge. Knowledge is dead and everywhere. Since the future is already here, I just wanna it to be distributed.
+Hope you can find interests in the books. `
+
 
 
 ## Thinking-in-thinking
