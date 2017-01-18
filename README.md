@@ -1,6 +1,4 @@
 
-
-
 ```
 The book list mainly contains economics, technology and psychology.
 I've read them more or less.
@@ -80,3 +78,12 @@ Hope you can find interests in the books.
   
 - [如何阅读一本书](https://github.com/yowenter/books/blob/master/如何阅读一本书.pdf)  
   
+
+
+## PR
+
+Any pull requests or issues are welcome .    
+Use `python generate_readme.py` for generating readme.
+
+
+

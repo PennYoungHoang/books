@@ -5,8 +5,6 @@ import re
 
 
 HeaderLine = """
-
-
 ```
 The book list mainly contains economics, technology and psychology.
 I've read them more or less.
@@ -16,6 +14,17 @@ Since the future is already here, I just wanna it to be distributed.
 Hope you can find interests in the books.
 
 ```
+"""
+
+FooterLine = """
+
+## PR
+
+Any pull requests or issues are welcome .    
+Use `python generate_readme.py` for generating readme.
+
+
+
 """
 
 ignore_files = ['\..*',"generate_readme.py", "README.md"]
@@ -130,6 +139,7 @@ if __name__ == "__main__":
     	for line in md.walk():
     		f.write(line)
     		f.write("  \n")
+        f.write(FooterLine)
 
 
 
