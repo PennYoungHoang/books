@@ -16,67 +16,67 @@ Hope you can find interests in the books.
   
 - [Macroeconomics NGregoryMankiw8th](https://github.com/yowenter/books/blob/master/Economics/Macroeconomics N.Gregory.Mankiw.8th.pdf)  
   
-## google-papers  
+## Google Papers  
   
-- [bigtable-osdi06](https://github.com/yowenter/books/blob/master/google-papers/bigtable-osdi06.pdf)  
+- [bigtable-osdi06](https://github.com/yowenter/books/blob/master/Google Papers/bigtable-osdi06.pdf)  
   
-- [gfs-sosp2003](https://github.com/yowenter/books/blob/master/google-papers/gfs-sosp2003.pdf)  
+- [gfs-sosp2003](https://github.com/yowenter/books/blob/master/Google Papers/gfs-sosp2003.pdf)  
   
-- [Large-scale cluster management at Google with Borg](https://github.com/yowenter/books/blob/master/google-papers/Large-scale cluster management at Google with Borg.pdf)  
+- [Large-scale cluster management at Google with Borg](https://github.com/yowenter/books/blob/master/Google Papers/Large-scale cluster management at Google with Borg.pdf)  
   
-- [mapreduce-osdi04](https://github.com/yowenter/books/blob/master/google-papers/mapreduce-osdi04.pdf)  
+- [mapreduce-osdi04](https://github.com/yowenter/books/blob/master/Google Papers/mapreduce-osdi04.pdf)  
   
-## How-to-be-a-good-product-manager  
+## Information Retrieval  
   
-- [Intercom-on-Customer-Engagement](https://github.com/yowenter/books/blob/master/How-to-be-a-good-product-manager/Intercom-on-Customer-Engagement.pdf)  
+- [Information Retrieval Implementing and Evaluating Search Engines](https://github.com/yowenter/books/blob/master/Information Retrieval/Information Retrieval Implementing and Evaluating Search Engines.pdf)  
   
-- [Intercom-on-Customer-Support](https://github.com/yowenter/books/blob/master/How-to-be-a-good-product-manager/Intercom-on-Customer-Support.pdf)  
+- [SEIRiP](https://github.com/yowenter/books/blob/master/Information Retrieval/SEIRiP.pdf)  
   
-- [Intercom-on-Jobs-to-be-Done](https://github.com/yowenter/books/blob/master/How-to-be-a-good-product-manager/Intercom-on-Jobs-to-be-Done.pdf)  
+## Machine Learning  
   
-- [Intercom-on-Onboarding](https://github.com/yowenter/books/blob/master/How-to-be-a-good-product-manager/Intercom-on-Onboarding.pdf)  
+- [Bishop - Pattern Recognition and Machine Learning](https://github.com/yowenter/books/blob/master/Machine Learning/Bishop - Pattern Recognition and Machine Learning.pdf)  
   
-- [Intercom-on-Product-Management-](https://github.com/yowenter/books/blob/master/How-to-be-a-good-product-manager/Intercom-on-Product-Management-.pdf)  
+- [Machine Learning in Action](https://github.com/yowenter/books/blob/master/Machine Learning/Machine Learning in Action.pdf)  
   
-## Information-retrieval  
+- [MachineLearningAProbabilisticPerspective,KevinPMurphy,MITPress,2012](https://github.com/yowenter/books/blob/master/Machine Learning/Machine.Learning.A.Probabilistic.Perspective,.Kevin.P..Murphy,.MIT.Press,.2012.pdf)  
   
-- [Information Retrieval Implementing and Evaluating Search Engines](https://github.com/yowenter/books/blob/master/Information-retrieval/Information Retrieval Implementing and Evaluating Search Engines.pdf)  
+## Mind  
   
-- [SEIRiP](https://github.com/yowenter/books/blob/master/Information-retrieval/SEIRiP.pdf)  
+- [simple heuristics that make us smart](https://github.com/yowenter/books/blob/master/Mind/simple heuristics that make us smart.pdf)  
   
-## Machine-Learning  
+- [失败的逻辑：事情因何出错，世间有无妙策](https://github.com/yowenter/books/blob/master/Mind/失败的逻辑：事情因何出错，世间有无妙策.pdf)  
   
-- [Bishop - Pattern Recognition and Machine Learning](https://github.com/yowenter/books/blob/master/Machine-Learning/Bishop - Pattern Recognition and Machine Learning.pdf)  
+- [高斯 & 温伯格：你的灯亮着吗？——发现问题的真正所在](https://github.com/yowenter/books/blob/master/Mind/高斯 & 温伯格：你的灯亮着吗？——发现问题的真正所在.pdf)  
   
-- [Machine Learning in Action](https://github.com/yowenter/books/blob/master/Machine-Learning/Machine Learning in Action.pdf)  
+## Networks  
   
-- [MachineLearningAProbabilisticPerspective,KevinPMurphy,MITPress,2012](https://github.com/yowenter/books/blob/master/Machine-Learning/Machine.Learning.A.Probabilistic.Perspective,.Kevin.P..Murphy,.MIT.Press,.2012.pdf)  
+- [Computer Networks - A Tanenbaum - 5th edition](https://github.com/yowenter/books/blob/master/Networks/Computer Networks - A Tanenbaum - 5th edition.pdf)  
   
-## So-you-are-a-programmer  
+- [TCP-IP Illustrated Volume 1 The Protocols [第二版][英文版][文字版]](https://github.com/yowenter/books/blob/master/Networks/TCP-IP Illustrated Volume 1 The Protocols [第二版][英文版][文字版].pdf)  
   
-- [Compilers - Principles Techniques and Tools by Alfred Aho - Monica Lam- Ravi Sethi- Jeffrey Ullman - Second Edition](https://github.com/yowenter/books/blob/master/So-you-are-a-programmer/Compilers - Principles Techniques and Tools by Alfred Aho - Monica Lam- Ravi Sethi- Jeffrey Ullman - Second Edition.pdf)  
+## Product  
   
-- [Computer Systems - A Programmer's Perspective (2nd)](https://github.com/yowenter/books/blob/master/So-you-are-a-programmer/Computer Systems - A Programmer's Perspective (2nd).pdf)  
+- [Intercom-on-Customer-Engagement](https://github.com/yowenter/books/blob/master/Product/Intercom-on-Customer-Engagement.pdf)  
   
-- [the c programming language%25282nd edition%2529](https://github.com/yowenter/books/blob/master/So-you-are-a-programmer/the c programming language%25282nd edition%2529.pdf)  
+- [Intercom-on-Customer-Support](https://github.com/yowenter/books/blob/master/Product/Intercom-on-Customer-Support.pdf)  
   
-- [汇编语言王爽著](https://github.com/yowenter/books/blob/master/So-you-are-a-programmer/汇编语言王爽著.pdf)  
+- [Intercom-on-Jobs-to-be-Done](https://github.com/yowenter/books/blob/master/Product/Intercom-on-Jobs-to-be-Done.pdf)  
   
-- [编码 隐匿在计算机软硬件背后的语言](https://github.com/yowenter/books/blob/master/So-you-are-a-programmer/编码 隐匿在计算机软硬件背后的语言.pdf)  
+- [Intercom-on-Onboarding](https://github.com/yowenter/books/blob/master/Product/Intercom-on-Onboarding.pdf)  
   
-## Thinking-in-Thinking  
+- [Intercom-on-Product-Management-](https://github.com/yowenter/books/blob/master/Product/Intercom-on-Product-Management-.pdf)  
   
-- [simple heuristics that make us smart](https://github.com/yowenter/books/blob/master/Thinking-in-Thinking/simple heuristics that make us smart.pdf)  
+## Programming  
   
-- [失败的逻辑：事情因何出错，世间有无妙策](https://github.com/yowenter/books/blob/master/Thinking-in-Thinking/失败的逻辑：事情因何出错，世间有无妙策.pdf)  
+- [Compilers - Principles Techniques and Tools by Alfred Aho - Monica Lam- Ravi Sethi- Jeffrey Ullman - Second Edition](https://github.com/yowenter/books/blob/master/Programming/Compilers - Principles Techniques and Tools by Alfred Aho - Monica Lam- Ravi Sethi- Jeffrey Ullman - Second Edition.pdf)  
   
-- [高斯 & 温伯格：你的灯亮着吗？——发现问题的真正所在](https://github.com/yowenter/books/blob/master/Thinking-in-Thinking/高斯 & 温伯格：你的灯亮着吗？——发现问题的真正所在.pdf)  
+- [Computer Systems - A Programmer's Perspective (2nd)](https://github.com/yowenter/books/blob/master/Programming/Computer Systems - A Programmer's Perspective (2nd).pdf)  
   
-## Understanding-networks  
+- [the c programming language%25282nd edition%2529](https://github.com/yowenter/books/blob/master/Programming/the c programming language%25282nd edition%2529.pdf)  
   
-- [Computer Networks - A Tanenbaum - 5th edition](https://github.com/yowenter/books/blob/master/Understanding-networks/Computer Networks - A Tanenbaum - 5th edition.pdf)  
+- [汇编语言王爽著](https://github.com/yowenter/books/blob/master/Programming/汇编语言王爽著.pdf)  
   
-- [TCP-IP Illustrated Volume 1 The Protocols [第二版][英文版][文字版]](https://github.com/yowenter/books/blob/master/Understanding-networks/TCP-IP Illustrated Volume 1 The Protocols [第二版][英文版][文字版].pdf)  
+- [编码 隐匿在计算机软硬件背后的语言](https://github.com/yowenter/books/blob/master/Programming/编码 隐匿在计算机软硬件背后的语言.pdf)  
   
 - [如何阅读一本书](https://github.com/yowenter/books/blob/master/如何阅读一本书.pdf)  
   
