@@ -70,6 +70,10 @@ Hope you can find interests in the books.
   
 - [Computer Systems - A Programmer's Perspective (2nd)](https://github.com/yowenter/books/blob/master/Programming/Computer Systems - A Programmer's Perspective (2nd).pdf)  
   
+- [Principles of Distributed Computing](https://github.com/yowenter/books/blob/master/Programming/Principles of Distributed Computing.pdf)  
+  
+- [The Art Of Unix Programming](https://github.com/yowenter/books/blob/master/Programming/The Art Of Unix Programming.pdf)  
+  
 - [the c programming language%25282nd edition%2529](https://github.com/yowenter/books/blob/master/Programming/the c programming language%25282nd edition%2529.pdf)  
   
 - [汇编语言王爽著](https://github.com/yowenter/books/blob/master/Programming/汇编语言王爽著.pdf)  
