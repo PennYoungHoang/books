@@ -70,6 +70,8 @@ Hope you can find interests in the books.
   
 - [Computer Systems - A Programmer's Perspective (2nd)](https://github.com/yowenter/books/blob/master/Programming/Computer Systems - A Programmer's Perspective (2nd).pdf)  
   
+- [Modern_Operating_Systems](https://github.com/yowenter/books/blob/master/Programming/Modern_Operating_Systems.pdf)  
+  
 - [Principles of Distributed Computing](https://github.com/yowenter/books/blob/master/Programming/Principles of Distributed Computing.pdf)  
   
 - [The Art Of Unix Programming](https://github.com/yowenter/books/blob/master/Programming/The Art Of Unix Programming.pdf)  
