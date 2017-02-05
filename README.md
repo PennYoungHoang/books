@@ -14,6 +14,8 @@ Hope you can find interests in the books.
   
 - [Macroeconomics NGregoryMankiw8th](https://github.com/yowenter/books/blob/master/Economics/Macroeconomics N.Gregory.Mankiw.8th.pdf)  
   
+- [聪明的投资者  第四版](https://github.com/yowenter/books/blob/master/Economics/聪明的投资者  第四版.pdf)  
+  
 ## Google Papers  
   
 - [bigtable-osdi06](https://github.com/yowenter/books/blob/master/Google Papers/bigtable-osdi06.pdf)  
