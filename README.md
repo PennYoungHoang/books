@@ -16,6 +16,10 @@ Hope you can find interests in the books.
   
 - [聪明的投资者  第四版](https://github.com/yowenter/books/blob/master/Economics/聪明的投资者  第四版.pdf)  
   
+- [证券分析(第6版)上](https://github.com/yowenter/books/blob/master/Economics/证券分析(第6版)上.pdf)  
+  
+- [证券分析(第6版)下](https://github.com/yowenter/books/blob/master/Economics/证券分析(第6版)下.pdf)  
+  
 ## Google Papers  
   
 - [bigtable-osdi06](https://github.com/yowenter/books/blob/master/Google Papers/bigtable-osdi06.pdf)  

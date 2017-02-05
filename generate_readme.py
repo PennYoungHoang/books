@@ -32,7 +32,7 @@ ignore_patterns = [re.compile(i) for i in ignore_files]
 not_ignore = lambda fname: not any([p.match(fname) for p in ignore_patterns])
 
 git_dir = os.path.dirname(os.path.abspath(__file__))
-print "Git:%s, dir length:%s "%(git_dir,len(git_dir))
+print "Git Directory :%s  "%(git_dir)
 PREFIX = len(git_dir)
 
 
@@ -103,6 +103,7 @@ class MarkDownRender:
         self.lines = []
 
     def walk(self, lines=None):
+        print self.node.name
     	if lines is None:
     		lines = []
         if self.node.__class__.__name__ == 'FileNode':
