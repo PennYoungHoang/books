@@ -14,6 +14,8 @@ Hope you can find interests in the books.
   
 - [Macroeconomics NGregoryMankiw8th](https://github.com/yowenter/books/blob/master/Economics/Macroeconomics N.Gregory.Mankiw.8th.pdf)  
   
+- [弗雷德里克·米什金：The Economics of Money, Banking, and Financial Markets (第7版 扫描版)](https://github.com/yowenter/books/blob/master/Economics/弗雷德里克·米什金：The Economics of Money, Banking, and Financial Markets (第7版 扫描版).pdf)  
+  
 - [聪明的投资者  第四版](https://github.com/yowenter/books/blob/master/Economics/聪明的投资者  第四版.pdf)  
   
 - [证券分析(第6版)上](https://github.com/yowenter/books/blob/master/Economics/证券分析(第6版)上.pdf)  
