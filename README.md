@@ -88,6 +88,8 @@ Hope you can find interests in the books.
   
 - [汇编语言王爽著](https://github.com/yowenter/books/blob/master/Programming/汇编语言王爽著.pdf)  
   
+- [深入理解计算机系统](https://github.com/yowenter/books/blob/master/Programming/深入理解计算机系统.pdf)  
+  
 - [编码 隐匿在计算机软硬件背后的语言](https://github.com/yowenter/books/blob/master/Programming/编码 隐匿在计算机软硬件背后的语言.pdf)  
   
 - [如何阅读一本书](https://github.com/yowenter/books/blob/master/如何阅读一本书.pdf)  
