@@ -36,6 +36,8 @@ Hope you can find interests in the books.
   
 - [Information Retrieval Implementing and Evaluating Search Engines](https://github.com/yowenter/books/blob/master/Information Retrieval/Information Retrieval Implementing and Evaluating Search Engines.pdf)  
   
+- [introduction to information retrieval Manning](https://github.com/yowenter/books/blob/master/Information Retrieval/introduction to information retrieval Manning.pdf)  
+  
 - [SEIRiP](https://github.com/yowenter/books/blob/master/Information Retrieval/SEIRiP.pdf)  
   
 ## Machine Learning  
